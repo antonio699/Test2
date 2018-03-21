@@ -1,0 +1,12 @@
+$ git log
+commit ceae46691899f651f4875f8dcf14e52ee26538c3 (HEAD -> logging, origin/master, origin/logging, master)
+Author: antonio699 <petar.koloski@hotmail.com>
+Date:   Wed Mar 21 16:19:40 2018 +0100
+
+    modify l1.txt
+
+commit 5af1d92c5d821cbb3f2be6bab4acdf7ee475435a
+Author: antonio699 <petar.koloski@hotmail.com>
+Date:   Wed Mar 21 16:17:58 2018 +0100
+
+    Initial commit
